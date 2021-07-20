@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">I am a passionate web-developer from India.</h3>
+<h3 align="center">I am a passionate web-developer and ML-enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitbatra31&label=Profile%20views&color=0e75b6&style=flat" alt="amitbatra31" /> </p>
 
