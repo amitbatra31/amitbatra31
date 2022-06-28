@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitbatra31&label=Profile%20views&color=0e75b6&style=flat" alt="amitbatra31" /> </p>
 
-- 🔭 I’m currently working on [Seniorcircle](https://github.com/DTU-DCODER/SeniorCircle)
+- I build full stack websites using React, Node.js  Express, MongoDB
 
-- 🌱 I’m currently learning **Express.js, tensorflow**
+- 🌱 I’m currently learning **Express.js, React**
 
 - 💬 Ask me about **opencv, Css, django**
 
