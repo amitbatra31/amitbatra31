@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitbatra31&show_icons=true&locale=en" alt="amitbatra31" /></p>
 
 [![Amit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amitbatra31&theme=react-dark)](https://github.com/amitbatra31)
+
+## See my pull requests
+![image](https://github.com/amitbatra31/amitbatra31/blob/output/github-contribution-grid-snake.svg)
